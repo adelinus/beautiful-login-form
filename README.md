@@ -1,1 +1,1 @@
-Just a simple beautiful and responsive login form.
+Just a simple beautiful and not so responsive login form :)
